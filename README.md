@@ -1,3 +1,3 @@
 # practiceC_-movie-
-my... cute... memory <br>
+my... cute... memory... in C programming class <br>
 It would be deleted soon ... 
